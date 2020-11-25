@@ -1,5 +1,10 @@
 package templateMethod;
 
+/**
+ * H2产品
+ *
+ * @author cgg
+ */
 public class HummerH2Model extends templateMethod.HummerModel {
 
     @Override

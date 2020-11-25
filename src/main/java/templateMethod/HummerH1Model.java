@@ -1,5 +1,11 @@
 package templateMethod;
-public class HummerH1Model extends templateMethod.HummerModel {
+
+/**
+ * H1产品
+ *
+ * @author cgg
+ */
+class HummerH1Model extends HummerModel {
 
     @Override
     void start() {
