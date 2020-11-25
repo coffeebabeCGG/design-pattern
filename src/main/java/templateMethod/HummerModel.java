@@ -1,7 +1,10 @@
 package templateMethod;
 
 /**
+ * 产品抽象类
+ *
  * @author cgg
+ *
  */
 abstract class HummerModel {
 

@@ -7,7 +7,6 @@ package templateMethod;
  */
 public class Client {
 
-
     /**
      * 模拟生产产品场景
      */

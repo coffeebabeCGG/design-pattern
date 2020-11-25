@@ -1,6 +1,7 @@
 package templateMethod;
 
 /**
+ *
  * H2产品
  *
  * @author cgg
