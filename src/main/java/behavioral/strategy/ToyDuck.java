@@ -1,4 +1,4 @@
-package Strategy;
+package behavioral.strategy;
 
 public class ToyDuck extends Duck {
 

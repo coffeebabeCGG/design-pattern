@@ -1,4 +1,4 @@
-package templateMethod;
+package behavioral.templateMethod;
 
 /**
  * 产品抽象类

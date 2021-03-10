@@ -1,4 +1,4 @@
-package Strategy;
+package behavioral.strategy;
 
 abstract class Duck {
 

@@ -1,4 +1,4 @@
-package templateMethod;
+package behavioral.templateMethod;
 
 /**
  *
@@ -6,7 +6,7 @@ package templateMethod;
  *
  * @author cgg
  */
-public class HummerH2Model extends templateMethod.HummerModel {
+public class HummerH2Model extends HummerModel {
 
     @Override
     void start() {

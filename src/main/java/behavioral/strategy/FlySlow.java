@@ -1,4 +1,4 @@
-package Strategy;
+package behavioral.strategy;
 
 public class FlySlow implements Fly {
     public void flying() {

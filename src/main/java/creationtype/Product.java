@@ -1,4 +1,4 @@
-package builder;
+package creationtype;
 
 /**
  * 产品类

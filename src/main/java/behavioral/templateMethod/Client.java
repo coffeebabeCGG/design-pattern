@@ -1,4 +1,4 @@
-package templateMethod;
+package behavioral.templateMethod;
 
 /**
  * 演示类
