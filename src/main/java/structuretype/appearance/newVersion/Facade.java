@@ -1,4 +1,4 @@
-package structuretype.Appearance.newVersion;
+package structuretype.appearance.newVersion;
 
 
 /**

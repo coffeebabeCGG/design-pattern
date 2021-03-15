@@ -1,4 +1,4 @@
-package structuretype.Appearance.oldVersion;
+package structuretype.appearance.newVersion;
 
 public class WeChat {
 

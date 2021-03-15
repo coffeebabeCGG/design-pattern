@@ -1,4 +1,4 @@
-package structuretype.Appearance.oldVersion;
+package structuretype.appearance.newVersion;
 
 /**
  * @author cgg
@@ -10,16 +10,13 @@ public class Test {
         Browser browser = new Browser();
         IDE ide = new IDE();
         WeChat weChat = new WeChat();
+        Facade facade = new Facade();
 
-        browser.open();
-        ide.open();
-        weChat.open();
+        facade.open(browser, ide, weChat);
 
         System.out.println("off work");
 
-        browser.close();
-        ide.close();
-        weChat.close();
+        facade.close(browser, ide, weChat);
 
     }
 }
