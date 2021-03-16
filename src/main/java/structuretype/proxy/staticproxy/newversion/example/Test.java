@@ -1,4 +1,4 @@
-package structuretype.proxy.dynamicproxy.newversion.example;
+package structuretype.proxy.staticproxy.newversion.example;
 
 /**
  * @author cgg

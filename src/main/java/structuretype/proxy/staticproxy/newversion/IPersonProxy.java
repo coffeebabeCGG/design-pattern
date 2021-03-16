@@ -1,7 +1,7 @@
-package structuretype.proxy.dynamicproxy.newversion;
+package structuretype.proxy.staticproxy.newversion;
 
-import structuretype.proxy.dynamicproxy.oldversion.IPerson;
-import structuretype.proxy.dynamicproxy.oldversion.Person;
+import structuretype.proxy.staticproxy.oldversion.IPerson;
+import structuretype.proxy.staticproxy.oldversion.Person;
 
 /**
  * @author cgg
